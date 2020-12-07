@@ -1,0 +1,7 @@
+C:\Users\Priyant Hirani\source\repos\IphoneBackUp\IphoneBackUp\bin\Debug\IphoneBackUp.exe.config
+C:\Users\Priyant Hirani\source\repos\IphoneBackUp\IphoneBackUp\bin\Debug\IphoneBackUp.exe
+C:\Users\Priyant Hirani\source\repos\IphoneBackUp\IphoneBackUp\bin\Debug\IphoneBackUp.pdb
+C:\Users\Priyant Hirani\source\repos\IphoneBackUp\IphoneBackUp\obj\Debug\IphoneBackUp.csproj.CoreCompileInputs.cache
+C:\Users\Priyant Hirani\source\repos\IphoneBackUp\IphoneBackUp\obj\Debug\IphoneBackUp.exe
+C:\Users\Priyant Hirani\source\repos\IphoneBackUp\IphoneBackUp\obj\Debug\IphoneBackUp.pdb
+C:\Users\Priyant Hirani\source\repos\IphoneBackUp\IphoneBackUp\obj\Debug\IphoneBackUp.csprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IphoneBackUp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackUpPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\2020 IPhone Sorted</Value>
+    </Setting>
+    <Setting Name="Method" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CopyTo</Value>
+    </Setting>
+    <Setting Name="DeleteFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
